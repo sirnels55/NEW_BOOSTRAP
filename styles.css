@@ -1,0 +1,95 @@
+.navbar-brand{
+    font-family:Arial, Helvetica, sans-serif
+    font-style:;
+    font-weight: bold;
+    
+    
+}
+
+body{
+    background: linear-gradient( skyblue, lightgreen);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.img-thumbnail{
+    border-radius: 20px solid;
+}
+
+.fly{
+    color: white;
+}
+
+.mb-31{
+    
+    
+    margin-right: 20px;
+    padding-inline: 90px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: ;
+    color: white;
+    margin: 20px;
+    margin-right: 20px;
+    padding-inline: 60px;
+    
+    
+    
+    
+  }
+
+  .card{
+    border: 1px solid;
+    width: 50px;
+    height: 50px;
+    font-size: 15px;
+    text-align: center;
+    
+
+    float: inline-end;
+    
+}
+
+h1{
+    text-shadow: 0px 0px 5px greenyellow, 0px -5px 5px red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    
+}
+
+.float-lg-end{
+    "float": (
+  responsive: true,
+  property: float,
+  values: (
+    start: left,
+    end: right,
+    none: none,
+  )
+),
+}
+
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+
+.class{
+    padding: 10px;
+}
+
+.
+
+
